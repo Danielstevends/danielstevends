@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Danielstevends** is a ✨ _special_ ✨ repository because this is a portfolio work that I've done in Data Analytics, Data Science, Machine Learning, and Deep Learning.
+**Danielstevends** is a ✨ _special_ ✨ repository where I put all my portfolio work in Data Analytics, Data Science, Machine Learning, and Deep Learning.
 
 I'm also an electrical engineering that have fun doing research, find my old research publications here: https://scholar.google.com/citations?user=MiDMvoQAAAAJ&hl=en
 
